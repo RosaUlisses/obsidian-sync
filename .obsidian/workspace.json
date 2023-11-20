@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53ea2d579480389a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pasta/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/cp is cool.md",
+                "file": "pasta/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/cp is cool.md",
+                "file": "pasta/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/cp is cool.md"
+                "file": "pasta/Untitled.md"
               }
             }
           }
@@ -168,6 +180,8 @@
   "active": "756e85a5d1b099d4",
   "lastOpenFiles": [
     "test/cp is cool.md",
+    "pasta/Untitled.md",
+    "pasta",
     "test",
     "Programming/Cp/cp is cool.md",
     "Untitled 1.canvas",
