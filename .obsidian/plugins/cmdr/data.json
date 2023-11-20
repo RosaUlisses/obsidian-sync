@@ -7,17 +7,17 @@
   "leftRibbon": [
     {
       "id": "obsidian-git:commit",
-      "icon": "aperture",
+      "icon": "hard-drive",
       "name": "Obsidian Git: Commit all changes",
-      "mode": "desktop",
-      "color": "#20bac5"
+      "mode": "any",
+      "color": "#04e7cd"
     },
     {
       "id": "obsidian-git:push2",
-      "icon": "align-horizontal-distribute-start",
+      "icon": "upload-cloud",
       "name": "Obsidian Git: Push",
-      "mode": "1335f670dbf8a028",
-      "color": "#cbd908"
+      "mode": "any",
+      "color": "#04e7eb"
     }
   ],
   "rightRibbon": [],
