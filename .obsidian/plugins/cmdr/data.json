@@ -16,8 +16,24 @@
       "id": "obsidian-git:push2",
       "icon": "upload-cloud",
       "name": "Obsidian Git: Push",
+<<<<<<< HEAD
       "mode": "any",
       "color": "#04e7eb"
+=======
+      "mode": "1335f670dbf8a028"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "icon": "activity",
+      "name": "Obsidian Git: Commit all changes",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "activity",
+      "name": "Obsidian Git: Push",
+      "mode": "any"
+>>>>>>> origin/main
     }
   ],
   "rightRibbon": [],
