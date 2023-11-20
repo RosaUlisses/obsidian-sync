@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Untitled.md",
+                "file": "Programming/Cp/cp is cool.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Untitled.md",
+                "file": "Programming/Cp/cp is cool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Untitled.md",
+                "file": "Programming/Cp/cp is cool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Untitled.md"
+                "file": "Programming/Cp/cp is cool.md"
               }
             }
           }
@@ -156,10 +156,11 @@
       "cmdr:Obsidian Git: Push": false
     }
   },
-  "active": "756e85a5d1b099d4",
+  "active": "dd34ddd3535ab5e9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "test/Untitled.md",
+    "Programming/Cp/cp is cool.md",
+    "conflict-files-obsidian-git.md",
     "test",
     "test/Untitled",
     "Untitled 1.canvas",
