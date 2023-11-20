@@ -4,20 +4,7 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "obsidian-git:commit",
-      "icon": "hard-drive",
-      "name": "Obsidian Git: Commit all changes",
-      "mode": "1335f670dbf8a028"
-    },
-    {
-      "id": "obsidian-git:push2",
-      "icon": "upload-cloud",
-      "name": "Obsidian Git: Push",
-      "mode": "any"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
