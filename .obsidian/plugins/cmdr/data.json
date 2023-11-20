@@ -16,6 +16,18 @@
       "icon": "align-horizontal-distribute-start",
       "name": "Obsidian Git: Push",
       "mode": "1335f670dbf8a028"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "icon": "activity",
+      "name": "Obsidian Git: Commit all changes",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "activity",
+      "name": "Obsidian Git: Push",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
