@@ -11,15 +11,24 @@
             "id": "dd34ddd3535ab5e9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a939b4b3d4e1d6a3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Cp/cp is cool.md",
+                "file": "test/cp is cool.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cp/cp is cool.md",
+                "file": "test/cp is cool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Cp/cp is cool.md",
+                "file": "test/cp is cool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Cp/cp is cool.md"
+                "file": "test/cp is cool.md"
               }
             }
           }
@@ -156,14 +165,16 @@
       "cmdr:Obsidian Git: Push": false
     }
   },
-  "active": "dd34ddd3535ab5e9",
+  "active": "756e85a5d1b099d4",
   "lastOpenFiles": [
-    "test/Untitled.md",
+    "test/cp is cool.md",
+    "test",
     "Programming/Cp/cp is cool.md",
+    "Untitled 1.canvas",
+    "test/Untitled.md",
     "conflict-files-obsidian-git.md",
     "test",
     "test/Untitled",
-    "Untitled 1.canvas",
     "Untitled.canvas",
     "2023-11-19.md",
     "Untitled 2.canvas",
