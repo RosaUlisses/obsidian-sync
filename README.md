@@ -1,3 +1,3 @@
 # obsidian-sync
 
-ullas 2
+ullas 22
