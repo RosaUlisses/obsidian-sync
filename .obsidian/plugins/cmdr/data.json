@@ -9,13 +9,15 @@
       "id": "obsidian-git:commit",
       "icon": "aperture",
       "name": "Obsidian Git: Commit all changes",
-      "mode": "1335f670dbf8a028"
+      "mode": "desktop",
+      "color": "#20bac5"
     },
     {
       "id": "obsidian-git:push2",
       "icon": "align-horizontal-distribute-start",
       "name": "Obsidian Git: Push",
-      "mode": "1335f670dbf8a028"
+      "mode": "1335f670dbf8a028",
+      "color": "#cbd908"
     }
   ],
   "rightRibbon": [],
